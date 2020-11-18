@@ -1,6 +1,6 @@
-# Example data for QuickIntro2R
+## Example data for QuickIntro2R
 
-## Example 1: qPCR in A. thaliana
+### Example 1: qPCR in A. thaliana
 
 Filename: qPCR.txt
 
@@ -17,7 +17,7 @@ Variables:
 * DeltaCt:  measured DeltaCt between target and reference
   
   
-## Example 2: protein serum levels in pancreatitis patients and controls
+### Example 2: protein serum levels in pancreatitis patients and controls
 
 Filenames:
 
