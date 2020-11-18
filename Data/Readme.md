@@ -29,6 +29,8 @@ pancreatitis or are healthy controls. Investigators recorded for all
 participants a unique study ID, age, sex, serum levels of 92 proteins,
 and a quality flag for the serum sample (I to V, with I best).
 
+Note: this is synthetic data.
+
 Protein levels are recorded in prot.txt, a blank-separated text file
 with rows corresponding to proteins and columns to participants. The 
 first row contains the unique study ID, the first column the protein
