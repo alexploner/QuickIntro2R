@@ -28,3 +28,4 @@ select(Homo.sapiens, keys = pn2, keytype = "SYMBOL", columns=c("ENTREZID", "GENE
 # Add this to the results
 ann  <- select(Homo.sapiens, keys = pn2, keytype = "SYMBOL", columns=c("ENTREZID", "GENENAME"))
 res2 <- cbind(res, ann)
+head(res2)
