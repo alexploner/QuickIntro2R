@@ -3,7 +3,7 @@
 This is a short introduction to using R/RStudio, assuming little or no previous exposure. 
 
 The PDF document comes with a number of example data files and example scripts. The data can be used to replicate the 
-commands used inthe document, and to run the example scripts. 
+commands used in the document, and to run the example scripts. 
 
 This introduction was originally written for the course [Omics Data Analysis](https://kiwas.ki.se/katalog/katalog/kurs/2383) 
 at Karolinska Institutet, but is fairly generic and should work reasonably well for anyone with a basic statistics background.
