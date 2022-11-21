@@ -4,7 +4,7 @@
 # levels for cases and controls, with a quality flag, measured on a chip
 # (synthetic, almost real data)
 #
-# Alexander.Ploner@ki.se 2021-11-18
+# Alexander.Ploner@ki.se 2022-11-20
 
 # We assume that the data files are in the working directory
 library(readxl)

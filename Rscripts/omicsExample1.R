@@ -3,7 +3,7 @@
 # Code for Example 1 for R intro in course Omics Data Analysis: a simple
 # qPCR data set (not very omic, but we have to start somewhere)
 #
-# Alexander.Ploner@ki.se 2021-11-18
+# Alexander.Ploner@ki.se 2022-11-20
 
 # We assume that the file is in this directory and set it as working directory
 # Modify as required

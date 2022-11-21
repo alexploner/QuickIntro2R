@@ -11,7 +11,7 @@
 # for how to install the annotation packages - warning: this is quite a bit of data,
 # and download may be slow.
 #
-# Alexander.Ploner@ki.se 2021-11-18
+# Alexander.Ploner@ki.se 2022-11-20
 
 # These are the protein names (sorted by significance)
 pn <- as.character(res$Protein)
